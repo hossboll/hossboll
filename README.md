@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PyTorch Geometric, DeepSNAP, and Tensorflow**
 
-- 📫 How to reach me **hoboll@inf.ufrgs.br, oss.boll@ufrgs.br**
+- 📫 How to reach me: **hoboll@inf.ufrgs.br, oss.boll@ufrgs.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

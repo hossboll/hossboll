@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heloísa</h1>
 <h3 align="center">A passionate MSc student in AI/ML from UFRGS/Högskolan i Halmstad</h3>
 
-- 🔭 I’m currently working on **graph neural networks and electronic health records (EHR) for clinical risk prediction**
+- 🩺 My research interests are AI/ML for medical informatics, particularly for patient prognosis
+
+- 🔭 I’m currently working on my dissertation on **graph neural networks and electronic health records (EHR) for clinical risk prediction**
 
 - 🌱 I’m currently learning **PyTorch Geometric, DeepSNAP, and Tensorflow**
 

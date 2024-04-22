@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Heloísa</h1>
-<h3 align="center">A passionate MSc student in AI/ML from UFRGS/Högskolan i Halmstad</h3>
+<h3 align="center">Hi 👋, I'm Heloísa</h3>
+<h4 align="center">A MSc student in AI/ML from UFRGS/Högskolan i Halmstad</h3>
 
-- 🩺 My research interests are AI/ML for medical informatics, particularly for patient prognosis
+- My research interests are AI/ML for medical informatics, particularly for patient prognosis
 
-- 🔭 I’m currently working on my dissertation on **graph neural networks and electronic health records (EHR) for clinical risk prediction**
+- I’m currently working on my dissertation on **graph neural networks and electronic health records (EHR) for clinical risk prediction**
 
-- 🌱 I’m currently learning **PyTorch Geometric, DeepSNAP, and Tensorflow**
+- I’m currently learning **PyTorch Geometric, DeepSNAP, and Tensorflow**
 
-- 📫 How to reach me: **hoboll@inf.ufrgs.br, oss.boll@ufrgs.br**
+- How to reach me: **hoboll@inf.ufrgs.br, oss.boll@ufrgs.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

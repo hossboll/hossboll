@@ -3,11 +3,11 @@
 
 - My research interests are AI/ML for medical informatics, particularly for patient prognosis
 
-- I’m currently working on my dissertation on **graph neural networks and electronic health records (EHR) for clinical risk prediction**
+- I’m currently working on my dissertation on graph neural networks and electronic health records (EHR) for clinical risk prediction
 
-- I’m currently learning **PyTorch Geometric, DeepSNAP, and Tensorflow**
+- I’m currently studying PyTorch Geometric, DeepSNAP, and Tensorflow
 
-- How to reach me: **hoboll@inf.ufrgs.br, oss.boll@ufrgs.br**
+- How to reach me: hoboll@inf.ufrgs.br, oss.boll@ufrgs.br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Heloísa</h3>
-<h4 align="center">A MSc student in AI/ML from UFRGS/Högskolan i Halmstad</h3>
+<h4 align="center">A MSc student in Computer Science from UFRGS/Högskolan i Halmstad</h3>
 
 - My research interests are AI/ML for medical informatics, particularly for patient prognosis
 

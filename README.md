@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Heloísa</h3>
 <h4 align="center">A MSc student in Computer Science from UFRGS/Högskolan i Halmstad</h3>
 
-- My research interests are AI/ML for medical informatics, particularly for patient prognosis
+- My research interests are AI/ML for medical informatics, particularly for patient care
 
 - I’m currently working on my dissertation on graph neural networks and electronic health records (EHR) for clinical risk prediction
 

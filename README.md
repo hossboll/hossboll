@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Heloisa</h3>
 <h4 align="center">A PhD student from Amsterdam UMC/University of Amsterdam</h3>
 
-- My research interests are ML/NLP for medical informatics, particularly in patient care
+- My main research interest is clinical ML/NLP, with a focus in patient care
 
 - How to reach me: h.ossboll@amsterdamumc.nl, [Heloisa Oss Boll](https://linkedin.com/in/hossboll)
 
